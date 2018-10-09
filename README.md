@@ -1,4 +1,4 @@
-##Office Memory
+# Office Memory
 
 Don't click the same character twice or else the game starts over and your score goes back to 0. 
 
