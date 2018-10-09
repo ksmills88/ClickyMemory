@@ -1,8 +1,6 @@
 # Office Memory
 
-Don't click the same character twice or else the game starts over and your score goes back to 0. 
-
-This game was created using React. If you click on a tile that has already been clicked, you lose. 
+This game was created using React. If you click on a character that has already been clicked, you lose and will be prompted to start over.  
 
 Good Luck!!! 
 
